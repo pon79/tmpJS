@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/pon79/tmpJS/issues"
   },
-  "homepage": "https://github.com/pon79/tmpJS#readme"
+  "homepage": "https://github.com/pon79/tmpJS#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
